@@ -6,7 +6,12 @@ this repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 
 > https://inesqyx1.github.io
 
+Activity 1
 ![Alt text](https://github.com/inesqyx/inesqyx1.github.io/blob/main/PRA1_screenshot_1.png)
+
+Activity 2
+![Alt text](https://github.com/inesqyx/inesqyx1.github.io/blob/main/PRA1_Screenshot_2.png)
+![Alt text](https://github.com/inesqyx/inesqyx1.github.io/blob/main/PRA1_Screenshot2_1.png)
 
 
 
