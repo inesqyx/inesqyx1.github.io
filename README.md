@@ -10,7 +10,7 @@ Activity 1
 ![Alt text](https://github.com/inesqyx/inesqyx1.github.io/blob/main/PRA1_screenshot_1.png)
 
 Activity 2
-
+![Alt text](https://github.com/inesqyx/inesqyx1.github.io/blob/main/PRA1_Screenshot_2.png)
 
 
 
