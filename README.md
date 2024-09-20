@@ -6,6 +6,10 @@ this repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 
 > https://inesqyx1.github.io
 
+![Alt text](https://github.com/inesqyx/inesqyx1.github.io/blob/main/PRA1_screenshot_1.png)
+
+
+
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
