@@ -56,5 +56,11 @@ projects.sort(function(a, b){return b.time - a.time});
 
 document.getElementById("recent_projects").innerHTML = generateHTML(projects[0]);
 
-
+// Trigger the load more button: https://www.w3schools.com/jsref/event_onclick.asp
+function loadMore(){
+    // Javascript For Loop
+    for (let i = 1; i <projects.length; i++){
+        document.getElementById("recent_projects").innerHTML = generateHTML(projects[i]);
+    }
+}
 
