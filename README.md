@@ -11,6 +11,8 @@ Activity 1
 
 Activity 2
 ![Alt text](https://github.com/inesqyx/inesqyx1.github.io/blob/main/PRA1_Screenshot_2.png)
+![Alt text](https://github.com/inesqyx/inesqyx1.github.io/blob/main/PRA1_Screenshot2_1.png)
+
 
 
 
