@@ -5,8 +5,10 @@ this repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 > Welcome to Ideas in Quarantine.com
 
 > https://inesqyx1.github.io
+
 Activity 1
 ![Alt text](https://github.com/inesqyx/inesqyx1.github.io/blob/main/PRA1_screenshot_1.png)
+
 Activity 2
 
 
