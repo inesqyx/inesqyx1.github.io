@@ -14,17 +14,17 @@ class Project {
 
 //https://www.flaticon.com/free-icon/map_235861
 const project1 = new Project(20220430, "umap", "assets/img/map-logo.png", "Umap", "A map for UofT student", 
-    "Developed the front-end, back-end and unit-testing of a GIS system targeted towards university students",
+    "Developed the front-end, back-end and unit-testing of a GIS system targeted towards university students.",
     "Implemented new APIs to access data from a larger than 1 GB database and applied various STL data structures for optimization.");
 //https://www.yourdentistryguide.com/smile-anatomy/
 const project2 = new Project(20220830, "smile", "assets/img/smile-logo.jpg", "Smiling Machine", 
     "A GenAI-based model that turns non-smiling pictures into smiling pictures ",
-    "Developed a conditional deep convolutional generative adversarial network (cDCGAN) to generate smiling face images abnd showcased the result with Tensorboard",
-    "Generated reports on analyzing the difficulty in GAN training, and received a mark of 90 under evaluation");
+    "Developed a conditional deep convolutional generative adversarial network (cDCGAN) to generate smiling face images and showcased the result with Tensorboard.",
+    "Generated reports on analyzing the difficulty in GAN training, and received a mark of 90 under evaluation.");
 //https://www.springboard.com/blog/cybersecurity/what-is-cybersecurity/
 const project3 = new Project(20211230, "cyber", "assets/img/cybersecurity.jpg", "Content Lead @ UofT Cyber-security Student Association", 
     " ",
-    "Leading workshops with topics on Detecting Spam Using RNN and NLP",
+    "Leading workshops with topics on Detecting Spam Using RNN and NLP.",
     "Composing technical writing on course selection guidelines for students who are interested in cyber-security.");
 //https://www.facebook.com/uoftveep/
 const project4 = new Project(20211230, "veep", "assets/img/veep.png", "Full Stack Developer @ Volunteer Engineering Experience Program", 
