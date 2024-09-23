@@ -4,7 +4,7 @@ this repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 # Personal Portfolio ⚡️ 
 > Welcome to Ideas in Quarantine.com
 
-> [https://inesqyx1.github.io](https://iqianyx.com/inesqyx1.github.io/)
+[https://inesqyx1.github.io](https://iqianyx.com/inesqyx1.github.io/)
 
 
 
